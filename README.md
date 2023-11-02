@@ -1,2 +1,2 @@
 # Runway-Client
-Runway Client Best Pterodactyl Client
+Runway Client Best Pterodactyl Panel
